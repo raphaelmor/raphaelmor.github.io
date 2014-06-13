@@ -6,7 +6,7 @@ highlighter:      pygments
 permalink:        pretty
 
 # Setup
-title:            Raphaël Mor
+title:            Ra-Mo
 tagline:          'iOS Development'
 description:      'A blog about iOS Dev, Software Craftsmanship, and Agile practices'
 url:              http://raphaelmor.github.io
