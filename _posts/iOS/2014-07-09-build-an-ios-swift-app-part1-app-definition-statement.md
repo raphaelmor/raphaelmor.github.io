@@ -48,9 +48,10 @@ Nous pouvons donc formuler notre App Definition Statement comme suit :
 
 > Une application qui aide les nouveaux photographes argentiques à trouver les lieux dédiés à leur passion.
 
-Cette phrase sera notre filtre lorsque l'on décidera ou non d'ajouter une nouvelle fonctionnalité.
+Cette phrase sera notre filtre lorsque l'on décidera d'ajouter ou non une nouvelle fonctionnalité.
 
 ## Conclusion
 
-
+Maintenant que nous savons quoi construire, le prochain article sera dédié au prototypage de l'interface. 
+La session "Prototyping: Fake It Till You Make It" de la [WWDC 2014](https://developer.apple.com/videos/wwdc/2014/), est une mine d'or d'informations sur le sujet.
 
