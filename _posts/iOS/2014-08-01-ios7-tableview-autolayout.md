@@ -2,6 +2,7 @@
 layout: post
 title: "Bug Report : UITableView, Autolayout, Translucent Navigation Bar et Rotation"
 category : iOS
+comments: true
 ---
 
 iOS 7 a chamboulé les layouts (pour le mieux!) en rendant la Status Bar transparente, et en offrant la possibilité de rendre les `UINavigationBar` transluscides.

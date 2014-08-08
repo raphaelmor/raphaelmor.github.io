@@ -2,6 +2,7 @@
 layout: post
 title: "Intégration continue et couverture de code sur iOS avec Travis et Coveralls" 
 category : iOS
+comments: true
 ---
 
 Depuis quelques années maintenant, j'accorde une grande importance à l'[intégration continue](http://fr.wikipedia.org/wiki/Intégration_continue) et aux [tests automatisés](http://fr.wikipedia.org/wiki/Test_unitaire) (unitaires et fonctionnels) dans mes développements.

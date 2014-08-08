@@ -2,6 +2,7 @@
 layout: post
 title: "Build an iOS Swift App, Part 1 : L'App Definition Statement" 
 category : iOS
+comments: true
 ---
 
 Cette série d'articles est un prétexte pour relater mes expérimentations avec [Swift](https://developer.apple.com/swift/). 
